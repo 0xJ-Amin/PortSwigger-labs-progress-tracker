@@ -12,7 +12,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 0/14 lab
-- **SQL injection**: 1/18 lab
+- **SQL injection**: 2/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -35,7 +35,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | No | Date       | Topic          | Lab Title                                   | Difficulty  | Writeup Link |
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
 | 1  | 2026-06-15 |  SQL injection   | SQL injection UNION attack, determining the number of columns returned by the query  | PRACTITIONER | N/A |
-| 2  | 2026-00-00 |   |  |  | N/A |
+| 2  | 2026-00-00 |  SQL injection | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
 | 3  | 2026-00-00 |   |  |  | N/A |
 | 4  | 2026-00-00 |   |  |  | N/A |
 | 5  | 2026-00-00 |   |  |  | N/A |
