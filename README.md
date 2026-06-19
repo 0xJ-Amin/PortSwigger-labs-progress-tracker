@@ -38,5 +38,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 2  | 2026-06-16 |  SQL injection | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
 | 3  | 2026-06-17 |  SQL injection | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
 | 4  | 2026-06-17 |  SQL injection | SQL injection attack, querying the database type and version on MySQL and Microsoft | PRACTITIONER | N/A |
-| 5  | 2026-00-00 |   |  |  | N/A |
+| 5  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 6  | 2026-06-19 |  SQL injection | SQL injection attack, listing the database contents on non-Oracle databases | PRACTITIONER | N/A |
+| 7  | 2026-06-19 |  SQL injection | Blind SQL injection with conditional responses | PRACTITIONER | N/A |
+| 8  | 2026-06-19 |  SQL injection | Blind SQL injection with conditional errors | PRACTITIONER | N/A |
+| 9  | 2026-06-19 |  SQL injection | Visible error-based SQL injection | PRACTITIONER | N/A |
+<!--
+| 10  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 11  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+-->
+
 
