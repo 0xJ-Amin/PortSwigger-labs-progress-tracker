@@ -44,9 +44,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 8  | 2026-06-19 |  SQL injection | Blind SQL injection with conditional errors | PRACTITIONER | N/A |
 | 9  | 2026-06-19 |  SQL injection | Visible error-based SQL injection | PRACTITIONER | N/A |
 | 10  | 2026-06-20 |  SQL injection | SQL injection Blind SQL injection with time delays and information retrieval | PRACTITIONER | N/A |
+| 11  | 2026-06-19 |  SQL injection | Blind SQL injection with out-of-band interaction | PRACTITIONER | N/A |
 
-<!--| 11  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
-| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+<!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 | 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 -->
 
