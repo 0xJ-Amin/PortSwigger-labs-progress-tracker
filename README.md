@@ -34,17 +34,19 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | No | Date       | Topic          | Lab Title                                   | Difficulty  | Writeup Link |
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
-| 1  | 2026-06-15 |  SQL injection   | SQL injection UNION attack, determining the number of columns returned by the query  | PRACTITIONER | N/A |
-| 2  | 2026-06-16 |  SQL injection | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
-| 3  | 2026-06-17 |  SQL injection | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
-| 4  | 2026-06-17 |  SQL injection | SQL injection attack, querying the database type and version on MySQL and Microsoft | PRACTITIONER | N/A |
-| 5  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
-| 6  | 2026-06-19 |  SQL injection | SQL injection attack, listing the database contents on non-Oracle databases | PRACTITIONER | N/A |
-| 7  | 2026-06-19 |  SQL injection | Blind SQL injection with conditional responses | PRACTITIONER | N/A |
-| 8  | 2026-06-19 |  SQL injection | Blind SQL injection with conditional errors | PRACTITIONER | N/A |
-| 9  | 2026-06-19 |  SQL injection | Visible error-based SQL injection | PRACTITIONER | N/A |
-| 10  | 2026-06-20 |  SQL injection | SQL injection Blind SQL injection with time delays and information retrieval | PRACTITIONER | N/A |
-| 11  | 2026-06-21 |  SQL injection | Blind SQL injection with out-of-band interaction | PRACTITIONER | N/A |
+| 1  | 2026-06-15 |  SQL injection | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | APPRENTICE | N/A |
+| 2  | 2026-06-15 |  SQL injection | SQL injection vulnerability allowing login bypass  | APPRENTICE | N/A |
+| 3  | 2026-06-15 |  SQL injection   | SQL injection UNION attack, determining the number of columns returned by the query  | PRACTITIONER | N/A |
+| 4  | 2026-06-16 |  SQL injection | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
+| 5  | 2026-06-17 |  SQL injection | SQL injection UNION attack, retrieving multiple values in a single column | PRACTITIONER | N/A |
+| 6  | 2026-06-17 |  SQL injection | SQL injection attack, querying the database type and version on MySQL and Microsoft | PRACTITIONER | N/A |
+| 7  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 8  | 2026-06-19 |  SQL injection | SQL injection attack, listing the database contents on non-Oracle databases | PRACTITIONER | N/A |
+| 9  | 2026-06-19 |  SQL injection | Blind SQL injection with conditional responses | PRACTITIONER | N/A |
+| 10  | 2026-06-19 |  SQL injection | Blind SQL injection with conditional errors | PRACTITIONER | N/A |
+| 11  | 2026-06-19 |  SQL injection | Visible error-based SQL injection | PRACTITIONER | N/A |
+| 12  | 2026-06-20 |  SQL injection |  Blind SQL injection with time delays and information retrieval | PRACTITIONER | N/A |
+| 13  | 2026-06-21 |  SQL injection | Blind SQL injection with out-of-band interaction | PRACTITIONER | N/A |
 
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 | 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
