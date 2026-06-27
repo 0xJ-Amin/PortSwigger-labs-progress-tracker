@@ -49,6 +49,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 13  | 2026-06-21 |  SQL injection | Blind SQL injection with out-of-band interaction | PRACTITIONER | N/A |
 | 14  | 2026-06-26 | Authentication  | Username enumeration via different respons | APPRENTICE | N/A |
 | 15  | 2026-06-26 | Authentication | Username enumeration via subtly different responses | PRACTITIONER | N/A |
+| 16  | 2026-06-27 | Authentication | Username enumeration via response timing | PRACTITIONER | N/A |
 
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 | 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
