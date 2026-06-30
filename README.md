@@ -50,7 +50,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 14  | 2026-06-26 | Authentication  | Username enumeration via different respons | APPRENTICE | N/A |
 | 15  | 2026-06-26 | Authentication | Username enumeration via subtly different responses | PRACTITIONER | N/A |
 | 16  | 2026-06-27 | Authentication | Username enumeration via response timing | PRACTITIONER | N/A |
-
+| 17  | 2026-06-30 | Path traversal | File path traversal, simple case | APPRENTICE | N/A |
+| 18  | 2026-06-30 | Path traversal | File path traversal, traversal sequences blocked with absolute path bypass | PRACTITIONER | N/A |
+| 19  | 2026-06-30 | Path traversal | File path traversal, traversal sequences stripped non-recursively | PRACTITIONER | N/A |
+| 20  | 2026-06-30 | Path traversal | File path traversal, traversal sequences stripped with superfluous URL-decode | PRACTITIONER | N/A |
+| 21  | 2026-06-30 | Path traversal |  File path traversal, validation of start of path | PRACTITIONER | N/A |
+| 22  | 2026-06-30 | Path traversal | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 | 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 -->
