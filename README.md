@@ -62,6 +62,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 24  | 2026-07-9 | OS command injection | Blind OS command injection with time delays | PRACTITIONER | N/A |
 | 25  | 2026-07-9 | OS command injection | Blind OS command injection with output redirection | PRACTITIONER | N/A |
 | 26  | 2026-07-9 | OS command injection | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
+| 27  | 2026-07-9 | business logic vulnerabilities | Excessive trust in client-side controls | APPRENTICE | N/A |
+| 28  | 2026-07-9 | business logic vulnerabilities | 2FA broken logic | PRACTITIONER | N/A |
+
 
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 | 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
