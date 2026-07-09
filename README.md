@@ -57,6 +57,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 20  | 2026-06-30 | Path traversal | File path traversal, traversal sequences stripped with superfluous URL-decode | PRACTITIONER | N/A |
 | 21  | 2026-06-30 | Path traversal |  File path traversal, validation of start of path | PRACTITIONER | N/A |
 | 22  | 2026-06-30 | Path traversal | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
+| 23  | 2026-07-9 | OS command injection | OS command injection, simple case | APPRENTICE | N/A |
+| 22  | 2026-07-9 | OS command injection | Blind OS command injection with time delays | PRACTITIONER | N/A |
+| 22  | 2026-07-9 | OS command injection | Blind OS command injection with output redirection | PRACTITIONER | N/A |
+| 22  | 2026-07-9 | OS command injection | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
+
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 | 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 -->
