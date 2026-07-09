@@ -5,8 +5,8 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 14 of 61
-- **Practitioner**: 11 of 174
+- **Apprentice**: 16 of 61
+- **Practitioner**: 13 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -15,6 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 13/18 lab
 - **Path traversal**: 6/6
 - **Access control**: 0/13 lab
+- **OS command injection**: 3/5
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -58,9 +59,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 21  | 2026-06-30 | Path traversal |  File path traversal, validation of start of path | PRACTITIONER | N/A |
 | 22  | 2026-06-30 | Path traversal | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
 | 23  | 2026-07-9 | OS command injection | OS command injection, simple case | APPRENTICE | N/A |
-| 22  | 2026-07-9 | OS command injection | Blind OS command injection with time delays | PRACTITIONER | N/A |
-| 22  | 2026-07-9 | OS command injection | Blind OS command injection with output redirection | PRACTITIONER | N/A |
-| 22  | 2026-07-9 | OS command injection | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
+| 24  | 2026-07-9 | OS command injection | Blind OS command injection with time delays | PRACTITIONER | N/A |
+| 25  | 2026-07-9 | OS command injection | Blind OS command injection with output redirection | PRACTITIONER | N/A |
+| 26  | 2026-07-9 | OS command injection | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
 
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
 | 13  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
