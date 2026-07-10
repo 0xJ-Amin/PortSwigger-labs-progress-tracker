@@ -64,6 +64,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 26  | 2026-07-9 | OS command injection | Blind OS command injection with out-of-band interaction | PRACTITIONER | N/A |
 | 27  | 2026-07-9 | business logic vulnerabilities | Excessive trust in client-side controls | APPRENTICE | N/A |
 | 28  | 2026-07-9 | business logic vulnerabilities | 2FA broken logic | PRACTITIONER | N/A |
+| 29  | 2026-07-11 | Access control | Unprotected admin functionality | APPRENTICE | N/A |
+| 30  | 2026-07-11 | Unprotected admin functionality with unpredictable URL | APPRENTICE | N/A |
+| 31  | 2026-07-11 | Access control | User role controlled by request parameter | APPRENTICE | N/A |
+| 32  | 2026-07-11 | Access control | User role can be modified in user profile | APPRENTICE | N/A |
+| 33  | 2026-07-11 | Access control | Insecure direct object references | APPRENTICE | N/A |
+
 
 
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
