@@ -77,9 +77,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 39  | 2026-07-11 | DOM-based XSS | IDOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
 | 40  | 2026-07-11 | Access control | URL-based access control can be circumvented | PRACTITIONER | N/A |
 | 41  | 2026-07-11 | Access control | Method-based access control can be circumvented | PRACTITIONER | N/A |
-<--| 33  | 2026-07-11 | Access control | Insecure direct object references | APPRENTICE | N/A |
-| 33  | 2026-07-11 | Access control | Insecure direct object references | APPRENTICE | N/A |-->
-
 
 
 
