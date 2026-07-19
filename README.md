@@ -69,6 +69,17 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 31  | 2026-07-11 | Access control | User role controlled by request parameter | APPRENTICE | N/A |
 | 32  | 2026-07-11 | Access control | User role can be modified in user profile | APPRENTICE | N/A |
 | 33  | 2026-07-11 | Access control | Insecure direct object references | APPRENTICE | N/A |
+| 34  | 2026-07-19 | file upload vulnerability | Remote code execution via web shell upload | APPRENTICE | N/A |
+| 35  | 2026-07-19 | file upload vulnerability | Web shell upload via Content-Type restriction bypass | APPRENTICE | N/A |
+| 36  | 2026-07-19 | file upload vulnerability | Web shell upload via path traversal | PRACTITIONER | N/A |
+| 37  | 2026-07-11 | DOM-based XSS | DOM XSS in document.write sink using source location.search | APPRENTICE | N/A |
+| 38  | 2026-07-11 | DOM-based XSS | DOM XSS in document.write sink using source location.search inside a select element | PRACTITIONER | N/A |
+| 39  | 2026-07-11 | DOM-based XSS | IDOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
+| 40  | 2026-07-11 | Access control | URL-based access control can be circumvented | PRACTITIONER | N/A |
+| 41  | 2026-07-11 | Access control | Method-based access control can be circumvented | PRACTITIONER | N/A |
+<--| 33  | 2026-07-11 | Access control | Insecure direct object references | APPRENTICE | N/A |
+| 33  | 2026-07-11 | Access control | Insecure direct object references | APPRENTICE | N/A |-->
+
 
 
 
