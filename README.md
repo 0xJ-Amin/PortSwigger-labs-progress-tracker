@@ -77,7 +77,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 39  | 2026-07-11 | DOM-based XSS | IDOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
 | 40  | 2026-07-11 | Access control | URL-based access control can be circumvented | PRACTITIONER | N/A |
 | 41  | 2026-07-11 | Access control | Method-based access control can be circumvented | PRACTITIONER | N/A |
-
+| 42  | 2026-08-2 | SSRF | Basic SSRF against the local server | APPRENTICE | N/A |
+| 43  | 2026-08-2 | SSRF | Basic SSRF against another back-end system | APPRENTICE | N/A |
+| 44  | 2026-08-2 | SSRF | SSRF with blacklist-based input filter | PRACTITIONER | N/A |
+| 45  | 2026-08-2 | SSRF | SSRF with filter bypass via open redirection vulnerability | PRACTITIONER | N/A |
 
 
 <!--| 12  | 2026-06-19 |  SQL injection | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
